@@ -1,6 +1,6 @@
 # Welcome
 
-This project explores working with [Python](https://www.python.org) and [Jupyter](https://pypi.org/project/jupyter/) notebooks as part of the [DeepLearning.AI LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/?utm_source=dlai-learn-platform&utm_medium=referral-sc&utm_campaign=langchain-js&utm_content=langchain-llm-app) course.
+This project explores working with [Python](https://www.python.org) and [Jupyter](https://pypi.org/project/jupyter/) notebooks as part of the [DeepLearning.AI: LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/?utm_source=dlai-learn-platform&utm_medium=referral-sc&utm_campaign=langchain-js&utm_content=langchain-llm-app) course.
 
 ![Screenshot of a Jupyter notebook in VS Code](./screenshots/screenshot.png)
 

@@ -98,6 +98,7 @@ pyzmq==25.1.2
 qtconsole==5.5.1
 QtPy==2.4.1
 referencing==0.32.1
+regex==2023.12.25
 requests==2.31.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
@@ -110,6 +111,7 @@ SQLAlchemy==2.0.25
 stack-data==0.6.3
 tenacity==8.2.3
 terminado==0.18.0
+tiktoken==0.5.2
 tinycss2==1.2.1
 tornado==6.4
 tqdm==4.66.1
